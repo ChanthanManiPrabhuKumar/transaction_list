@@ -1,0 +1,26 @@
+[
+    {
+        "Name":"Aokiji",
+        "last_Date":"28 Feb 2023",
+        "time": "06:23PM",
+        "amount":"+13.00",
+        "process" : "Received",
+        "imageURL":"/images/boy1.png"
+    },
+    {
+        "Name":"Kizaru",
+        "last_Date":"28 Feb 2023",
+        "time": "06:23PM",
+        "amount":"-9.00",
+        "process" : "Outgoing",
+        "imageURL":"/images/boy2.jpg"
+    },
+    {
+        "Name":"Akainu",
+        "last_Date":"28 Feb 2023",
+        "time": "06:23PM",
+        "amount":"+20.00",
+        "process" : "Received",
+        "imageURL":"/images/boy3.webp"
+    }
+]
